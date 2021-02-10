@@ -1,0 +1,57 @@
+com/example/firenotes/AddNote.java
+ com.example.firenotes.AddNote
+ com.example.firenotes.AddNote$1
+ com.example.firenotes.AddNote$1$1
+ com.example.firenotes.AddNote$1$2
+com/example/firenotes/EditNote.java
+ com.example.firenotes.EditNote
+ com.example.firenotes.EditNote$1
+ com.example.firenotes.EditNote$1$1
+ com.example.firenotes.EditNote$1$2
+com/example/firenotes/BuildConfig.java
+ com.example.firenotes.BuildConfig
+com/example/firenotes/First5Fragment.java
+ com.example.firenotes.First5Fragment
+ com.example.firenotes.First5Fragment$1
+com/example/firenotes/First4Fragment.java
+ com.example.firenotes.First4Fragment
+ com.example.firenotes.First4Fragment$1
+com/example/firenotes/Second5Fragment.java
+ com.example.firenotes.Second5Fragment
+ com.example.firenotes.Second5Fragment$1
+com/example/firenotes/FirstFragment.java
+ com.example.firenotes.FirstFragment
+ com.example.firenotes.FirstFragment$1
+com/example/firenotes/NoteDetails.java
+ com.example.firenotes.NoteDetails
+ com.example.firenotes.NoteDetails$1
+com/example/firenotes/SecondFragment.java
+ com.example.firenotes.SecondFragment
+ com.example.firenotes.SecondFragment$1
+com/example/firenotes/First2Fragment.java
+ com.example.firenotes.First2Fragment
+ com.example.firenotes.First2Fragment$1
+com/example/firenotes/First3Fragment.java
+ com.example.firenotes.First3Fragment
+ com.example.firenotes.First3Fragment$1
+com/example/firenotes/model/Note.java
+ com.example.firenotes.model.Note
+com/example/firenotes/Second4Fragment.java
+ com.example.firenotes.Second4Fragment
+ com.example.firenotes.Second4Fragment$1
+com/example/firenotes/Second3Fragment.java
+ com.example.firenotes.Second3Fragment
+ com.example.firenotes.Second3Fragment$1
+com/example/firenotes/model/Adapter.java
+ com.example.firenotes.model.Adapter
+ com.example.firenotes.model.Adapter$1
+ com.example.firenotes.model.Adapter$ViewHolder
+com/example/firenotes/MainActivity.java
+ com.example.firenotes.MainActivity
+ com.example.firenotes.MainActivity$1
+ com.example.firenotes.MainActivity$1$1
+ com.example.firenotes.MainActivity$2
+ com.example.firenotes.MainActivity$NoteViewHolder
+com/example/firenotes/Second2Fragment.java
+ com.example.firenotes.Second2Fragment
+ com.example.firenotes.Second2Fragment$1
